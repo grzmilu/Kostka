@@ -1,5 +1,14 @@
+package Players;
+
 import java.util.*;
 public class GraczCzlowiek extends Player {
+     public GraczCzlowiek (){
+       
+   }
+    public GraczCzlowiek (String name){
+       super();
+   }
+    
     Scanner sc = new Scanner(System.in);
     @Override
     public int zgaduj(){       
