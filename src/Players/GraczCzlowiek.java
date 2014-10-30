@@ -6,7 +6,7 @@ public class GraczCzlowiek extends Player {
        
    }
     public GraczCzlowiek (String name){
-       super();
+       super(name);
    }
     
     Scanner sc = new Scanner(System.in);
