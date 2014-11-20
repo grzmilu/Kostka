@@ -13,9 +13,9 @@ public class kostka {
       
       game.addPlayer(player);
       game.addPlayer(new GraczCzlowiek("Adam"));
-      game.addPlayer(new GraczCzlowiek("Marek"));
-      game.addPlayer(new GraczCzlowiek("Adamds"));
-      game.removePlayer("Marek");
+     // game.addPlayer(new GraczCzlowiek("Marek"));
+   //   game.addPlayer(new GraczCzlowiek("Adamds"));
+   //   game.removePlayer("Marek");
       
       game.start(); 
       
